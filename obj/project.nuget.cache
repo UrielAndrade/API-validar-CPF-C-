@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "TgCmwwtZvfU=",
+  "success": true,
+  "projectFilePath": "/home/uriel/Documentos/programaçao/APIs/API-ValidarCPF-C#/ValidarCPF/ValidarCPF.csproj",
+  "expectedPackageFiles": [
+    "/home/uriel/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/home/uriel/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/uriel/.nuget/packages/microsoft.openapi/1.6.22/microsoft.openapi.1.6.22.nupkg.sha512",
+    "/home/uriel/.nuget/packages/swashbuckle.aspnetcore/7.3.0/swashbuckle.aspnetcore.7.3.0.nupkg.sha512",
+    "/home/uriel/.nuget/packages/swashbuckle.aspnetcore.swagger/7.3.0/swashbuckle.aspnetcore.swagger.7.3.0.nupkg.sha512",
+    "/home/uriel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.3.0/swashbuckle.aspnetcore.swaggergen.7.3.0.nupkg.sha512",
+    "/home/uriel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.3.0/swashbuckle.aspnetcore.swaggerui.7.3.0.nupkg.sha512",
+    "/home/uriel/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

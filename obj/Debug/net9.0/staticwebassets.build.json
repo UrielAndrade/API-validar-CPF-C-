@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "R/yHIhjG1t2ToWNGw8G/4iOH778/4/d7XMkWwqY3O2Y=",
+  "Source": "ValidarCPF",
+  "BasePath": "_content/ValidarCPF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

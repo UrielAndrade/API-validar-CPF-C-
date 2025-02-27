@@ -1,0 +1,6 @@
+@ValidarCPF_HostAddress = http://localhost:5087
+
+GET {{ValidarCPF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
